@@ -1,0 +1,3 @@
+import nikkibypass
+
+nikkibypass.fuck()
